@@ -56,11 +56,11 @@ Proyek ini berfokus pada **analisis data karyawan** untuk mengidentifikasi fakto
 **3. Identifikasi Faktor Penyebab Attrition**
 #### Analisis Statistik
 - **Faktor Kunci yang Mempengaruhi Attrition**:
-  1. Perjalanan Bisnis
-  2. Peran Pekerjaan
-  3. Lembur
-  4. Pendapatan Bulanan
-  5. Usia
+   - Perjalanan Bisnis
+   - Peran Pekerjaan
+   - Lembur
+   - Pendapatan Bulanan
+   - Usia
 
 #### Model Prediksi
 - **Algoritma**: AdaBoost Classifier dengan Random Forest sebagai base estimator
@@ -127,8 +127,7 @@ Data yang digunakan berasal dari dataset internal perusahaan yang berisi informa
    Jika Anda menggunakan Git untuk mengelola proyek, clone repository ini ke komputer lokal Anda.
 
    ```bash
-   git clone https://github.com/zzazzz/Belajar-Penerapan-Data-Science.git
-   cd Belajar-Penerapan-Data-Science
+   git clone https://github.com/mhmmadgiatt/HR-Attrition-Analysis-Dashboard.git
    ```
 
 2. **Install Dependencies**:
