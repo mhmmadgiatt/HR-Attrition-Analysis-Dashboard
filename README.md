@@ -146,6 +146,8 @@ Data yang digunakan berasal dari dataset internal perusahaan yang berisi informa
    streamlit run app.py
    ```
 
+atau terdapat pada Streamlit : [Link Business Dashboard](https://hr-attrition-analysis-dashboard-ibtobvhkxtmwqixcwluyz9.streamlit.app/)
+
 ---
 
 ## Business Dashboard
