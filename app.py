@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # Load Data Function
-@st.cache_data
+@st.cache
 def load_data(filepath):
     """
     Memuat data dari file CSV dengan caching untuk performa
